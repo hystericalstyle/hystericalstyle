@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C / C++ / Assembly -> Developer
 -------------------------------
 
-I came to programming relatively recently, probably 4 years ago when I was 11 years old. From a very young age I was interested in the computer and everything related to it. I wrote my first program in Python, it was a simple calculator. Now I am a developer who is able to work solo on projects of varying complexity and complete assigned tasks.
+I came to programming relatively recently, probably 4 years ago when I was 11 years old. From a very young age I was interested in the computer and everything related to it. I wrote my first program on Python, it was a simple calculator. Now I am a developer who is able to work solo on projects of varying complexity and complete assigned tasks.
 
 * 🌍  I'm based in Ukraine / Kharkiv
 
